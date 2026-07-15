@@ -76,3 +76,9 @@ CSC339_DCCN_Labs/
 1. Clone the repository:
    ```bash
    git clone https://github.com/SumairaSafeer/CSC339_DCCN_Labs.git
+
+   ## 👩‍🎓 Author
+**Sumaira Safeer**  
+Computer Engineer 
+COMSATS University Islamabad, Attock Campus  
+[LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
